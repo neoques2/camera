@@ -1,0 +1,24 @@
+# Task List
+
+- README.md
+  - [ ] Outline the purpose of extending into SWIR.
+- market_research.md
+  - [ ] Investigate plastics sorting and gas leak detection markets.
+  - [ ] Review competing InGaAs camera offerings.
+- technical_research.md
+  - [ ] Acquire SWIR camera (e.g., IMX990) and compatible lens.
+  - [ ] Develop illumination strategy using SWIR LEDs or tunable filters.
+  - [ ] Adapt synchronization and calibration pipeline from VIS system.
+  - [ ] Measure sensor response and noise across 400–1700 nm.
+  - [ ] Determine cost trade-offs vs. InGaAs options for long-wave coverage.
+- tasks.md
+  - [ ] Keep checklist current.
+- [ ] How will thermal management impact sensor noise in field deployments?
+- [ ] Which illumination approach best balances cost and spectral uniformity?
+  - [ ] Select SWIR lenses with appropriate coatings and mount options.
+  - [ ] Measure dark current vs. temperature to choose cooling strategy.
+  - [ ] Build calibration dataset across the full 400–1700 nm range.
+  - [ ] Compare filter wheel and AOTF approaches for SWIR band selection.
+  - [ ] Are IMX990-based cameras sufficient for outdoor scenes compared to cooled InGaAs?
+- [ ] Prototype uncooled SWIR LED array and measure output power.
+- [ ] Test glass and plastic window transmission at 1400–1600 nm.

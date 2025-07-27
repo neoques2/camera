@@ -1,0 +1,23 @@
+# Task List
+
+- README.md
+  - [ ] Introduce the medical oximetry application.
+- market_research.md
+  - [ ] Review FDA cleared devices (HyperView, SnapshotNIR, Ox-Imager, etc.).
+  - [ ] Summarize reimbursement codes (0061U, 0640T-0642T) and coverage policies.
+  - [ ] Identify clinical niches (wound care, reconstructive surgery) with TAM/SAM analysis.
+- technical_research.md
+  - [ ] Determine required spectral bands and safe illumination levels for tissue imaging.
+  - [ ] Draft regulatory pathway and documentation plan for new device.
+  - [ ] Outline software analytics needed for oxygenation and perfusion maps.
+- tasks.md
+  - [ ] Maintain this list for the medical device project.
+- [ ] What optical power limits apply for repeated clinical use?
+- [ ] Which reimbursement pathways best support early adoption in wound care centers?
+  - [ ] Build spreadsheet of 510(k) clearances and product codes for similar devices.
+  - [ ] Collect payer policy excerpts referencing CPT 0061U and 0640T series.
+  - [ ] Quantify U.S. procedure volumes for wound care and flap monitoring to derive TAM/SAM.
+  - [ ] Plan data management architecture compliant with HIPAA.
+- [ ] Which clinical partners can supply de-identified perfusion datasets for algorithm validation?
+- [ ] Design adjustable cart with articulating arm for hands-free captures.
+- [ ] Evaluate LED vs. laser safety standards for patient-facing devices.

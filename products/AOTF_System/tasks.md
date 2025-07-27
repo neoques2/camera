@@ -1,0 +1,26 @@
+# Task List
+
+- README.md
+  - [ ] Provide overview of the AOTF system and broadband source.
+- market_research.md
+  - [ ] Survey high-speed inspection and scientific imaging markets.
+  - [ ] Compare against high-end hyperspectral cameras.
+- technical_research.md
+  - [ ] Select AOTF crystals covering target wavelengths.
+  - [ ] Procure RF driver capable of multi-frequency operation.
+  - [ ] Integrate broadband source (LED engine, lamp, or supercontinuum).
+  - [ ] Design optical path with polarization control and appropriate aperture.
+  - [ ] Develop control software for rapid wavelength selection and mixing.
+  - [ ] Measure spectral throughput and tuning accuracy.
+  - [ ] Evaluate system speed for video-rate hyperspectral cubes.
+- tasks.md
+  - [ ] Track progress in this checklist.
+- [ ] Is a supercontinuum source required for adequate brightness in the AOTF?
+- [ ] What polarization management techniques minimize insertion loss?
+  - [ ] Itemize cost of candidate AOTF crystals and RF drivers.
+  - [ ] Measure temperature drift of center wavelength and implement stabilization if needed.
+  - [ ] Test simultaneous multi-line output for spectral mixing applications.
+  - [ ] Document laser safety and RF shielding requirements.
+- [ ] Evaluate EMI from RF drivers on nearby electronics.
+- [ ] Measure coupling efficiency of supercontinuum source into the AOTF crystal.
+- [ ] Does the added complexity justify performance gains over an LCTF solution?
