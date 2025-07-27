@@ -1,0 +1,25 @@
+# Task List
+
+- README.md
+  - [ ] Describe the LCTF-based imaging system.
+- market_research.md
+  - [ ] Evaluate demand in biomedical labs and museum imaging.
+  - [ ] Compare against filter wheels and snapshot mosaics.
+- technical_research.md
+  - [ ] Acquire suitable VIS and/or NIR LCTF modules and controller.
+  - [ ] Characterize switching times and transmission for each band.
+  - [ ] Mount filter in front of lens with proper polarization alignment.
+  - [ ] Implement camera control to synchronize exposures with filter tuning.
+  - [ ] Perform spectral calibration with LEDs or monochromator.
+  - [ ] Benchmark imaging speed and signal-to-noise across bands.
+- tasks.md
+  - [ ] Maintain this task list.
+- [ ] What trade-offs exist between switching speed and spectral bandwidth?
+- [ ] How long is the lifetime of typical LCTF components in continuous operation?
+  - [ ] Price comparison of Thorlabs vs. Channel Systems LCTFs.
+  - [ ] Test performance of polarization scrambler or depolarizer in front of the filter.
+  - [ ] Measure control latency using vendor SDK and trigger I/O.
+  - [ ] Document lens aperture limitations for different LCTF models.
+- [ ] Can polarization artifacts be minimized without large light loss?
+- [ ] Measure spectral drift of the LCTF as it warms during operation.
+- [ ] Cycle the filter >100k times to verify longevity.
